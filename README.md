@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grayson-hackett-664152265/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:graysonhackett@gmail.com)
-[![Resume](https://img.shields.io/badge/-Resume-FFA116?style=for-the-badge)](Resume.docx.pdf)
+[![Resume](https://img.shields.io/badge/-Resume-FFA116?style=for-the-badge)](https://drive.google.com/uc?export=download&id=11NewosHWmiwTxGQ968PwMub4pN0nvy2K)
 ![Visitors](https://komarev.com/ghpvc/?username=graysonhackett&label=Profile%20views&color=0e75b6&style=flat)
  
 
@@ -31,7 +31,7 @@
 <b><em>About me:</em></b></br>
 - I am a senior at the College of Charleston preparing to graduate in May 2025, looking to apply my gained knowdlege and skills in a great way!
 
-<b><em>Skills</em></b></br>
+<b><em>Skills:</em></b></br>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
