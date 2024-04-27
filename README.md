@@ -7,8 +7,8 @@
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grayson-hackett-664152265/)
-[![Resume](https://img.shields.io/badge/-Resume-FFA116?style=for-the-badge)](Resume.docx.pdf)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:graysonhackett@gmail.com)
+[![Resume](https://img.shields.io/badge/-Resume-FFA116?style=for-the-badge)](Resume.docx.pdf)
 ![Visitors](https://komarev.com/ghpvc/?username=graysonhackett&label=Profile%20views&color=0e75b6&style=flat)
  
 
